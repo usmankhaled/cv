@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond;
+    align-items: center;
+    align-content: center;
+}
+.oval{
+    height: 50px;
+    width: 50px;
+    border-radius: 22px;
+    background-color: cadetblue;
+    margin-left: 50%;
+    position: absolute;
+
+}
