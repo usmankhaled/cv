@@ -12,3 +12,40 @@ body{
     position: absolute;
 
 }
+
+.face{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: yellow;
+    margin: 30px;
+}
+.eye-container{
+    display: flex;
+}
+.eye{
+width: 30px;
+height: 30px;
+border-radius: 15px;
+margin-top: 15px;
+margin-left: 13px;
+background-color: black;
+}
+.mouth{
+    width: 40px;
+    height: 20px;
+    margin-left: 30px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom: 5px solid black;
+
+
+}
+.mouth-sad{
+    width: 40px;
+    height: 20px;
+    margin-left: 30px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top: 5px solid black;
+}
